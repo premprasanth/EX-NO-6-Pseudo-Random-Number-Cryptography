@@ -1,4 +1,7 @@
 # EX-NO-6-Pseudo-Random-Number
+## NAME: J.PREM PRASANTH
+
+## REGISTER NUMBER:2305001028
 
 
 ## AIM: 
