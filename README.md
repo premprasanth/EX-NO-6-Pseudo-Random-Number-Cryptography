@@ -36,6 +36,8 @@ return 0;
 }
 ```
 ## OUTPUT:
+<img width="851" height="258" alt="image" src="https://github.com/user-attachments/assets/1206d771-3ba8-4029-8306-73b039506f10" />
+
 
 
 ## RESULT:
